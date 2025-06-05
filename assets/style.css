@@ -61,7 +61,7 @@ body {
     transform: rotateY(180deg);
 
 }
-.cartao__conteudo__pergunta
+.cartao__conteudo__pergunta,
 .cartao__conteudo__resposta {
 backface-visibility: hidden;
 position: absolute;
@@ -72,17 +72,6 @@ width: 100%;
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
 }
-
-
-
-
-
-
-
-
-
-
-
 
 footer {
     background-color: black;
